@@ -1,1 +1,2 @@
-I am a software engineer and solution architect with 18 years of experience designing and delivering digital solutions across various business domains, especially financial services and healthcare. I have deep expertise in data structures, algorithms, and design patterns. My favorite language is C#; it’s the one in which I find myself most productive. I have great experience with FHIR in the healthcare domain and am passionate about contributing to FHIR-related projects.
+Software Engineer and Solution Architect
+https://www.linkedin.com/in/arsany-zaki/
